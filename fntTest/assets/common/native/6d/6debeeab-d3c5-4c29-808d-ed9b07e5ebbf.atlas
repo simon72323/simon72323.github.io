@@ -1,0 +1,202 @@
+
+loading_spine_3.png
+size: 284,1031
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+peacock_ass
+  rotate: true
+  xy: 2, 228
+  size: 187, 113
+  orig: 187, 113
+  offset: 0, 0
+  index: -1
+peacock_body
+  rotate: false
+  xy: 2, 767
+  size: 161, 262
+  orig: 161, 262
+  offset: 0, 0
+  index: -1
+peacock_eyeWhite
+  rotate: true
+  xy: 250, 805
+  size: 74, 32
+  orig: 74, 32
+  offset: 0, 0
+  index: -1
+peacock_eyeball_L
+  rotate: false
+  xy: 2, 2
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+peacock_eyeball_R
+  rotate: false
+  xy: 257, 783
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+peacock_eyelid_L
+  rotate: false
+  xy: 232, 426
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+peacock_eyelid_R
+  rotate: false
+  xy: 232, 450
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1
+peacock_head
+  rotate: false
+  xy: 165, 881
+  size: 117, 148
+  orig: 117, 148
+  offset: 0, 0
+  index: -1
+peacock_tail1_2
+  rotate: false
+  xy: 165, 803
+  size: 83, 76
+  orig: 83, 76
+  offset: 0, 0
+  index: -1
+peacock_tail1_L1
+  rotate: false
+  xy: 183, 323
+  size: 61, 98
+  orig: 61, 98
+  offset: 0, 0
+  index: -1
+peacock_tail1_L3
+  rotate: true
+  xy: 127, 21
+  size: 93, 65
+  orig: 93, 65
+  offset: 0, 0
+  index: -1
+peacock_tail1_L4
+  rotate: true
+  xy: 239, 195
+  size: 80, 40
+  orig: 80, 40
+  offset: 0, 0
+  index: -1
+peacock_tail1_R1
+  rotate: false
+  xy: 198, 185
+  size: 39, 90
+  orig: 39, 90
+  offset: 0, 0
+  index: -1
+peacock_tail1_R2
+  rotate: true
+  xy: 165, 768
+  size: 33, 90
+  orig: 33, 90
+  offset: 0, 0
+  index: -1
+peacock_tail1_R3
+  rotate: false
+  xy: 198, 127
+  size: 32, 56
+  orig: 32, 56
+  offset: 0, 0
+  index: -1
+peacock_tail1_R4
+  rotate: false
+  xy: 194, 3
+  size: 82, 46
+  orig: 82, 46
+  offset: 0, 0
+  index: -1
+peacock_tail1_top
+  rotate: true
+  xy: 183, 277
+  size: 44, 90
+  orig: 44, 90
+  offset: 0, 0
+  index: -1
+peacock_tail2_L1
+  rotate: false
+  xy: 2, 593
+  size: 147, 172
+  orig: 147, 172
+  offset: 0, 0
+  index: -1
+peacock_tail2_L2
+  rotate: true
+  xy: 2, 417
+  size: 174, 137
+  orig: 174, 137
+  offset: 0, 0
+  index: -1
+peacock_tail2_L3
+  rotate: true
+  xy: 127, 116
+  size: 148, 69
+  orig: 148, 69
+  offset: 0, 0
+  index: -1
+peacock_tail2_L4
+  rotate: true
+  xy: 117, 266
+  size: 149, 64
+  orig: 149, 64
+  offset: 0, 0
+  index: -1
+peacock_tail2_R1
+  rotate: false
+  xy: 79, 38
+  size: 46, 188
+  orig: 46, 188
+  offset: 0, 0
+  index: -1
+peacock_tail2_R2
+  rotate: true
+  xy: 141, 479
+  size: 45, 133
+  orig: 45, 133
+  offset: 0, 0
+  index: -1
+peacock_tail2_R3
+  rotate: true
+  xy: 141, 423
+  size: 54, 89
+  orig: 54, 89
+  offset: 0, 0
+  index: -1
+peacock_tail2_R4
+  rotate: false
+  xy: 194, 51
+  size: 88, 63
+  orig: 88, 63
+  offset: 0, 0
+  index: -1
+peacock_tail2_top
+  rotate: false
+  xy: 2, 21
+  size: 75, 205
+  orig: 75, 205
+  offset: 0, 0
+  index: -1
+peacock_wing1
+  rotate: true
+  xy: 151, 628
+  size: 137, 131
+  orig: 137, 131
+  offset: 0, 0
+  index: -1
+peacock_wing2
+  rotate: true
+  xy: 151, 526
+  size: 100, 122
+  orig: 100, 122
+  offset: 0, 0
+  index: -1

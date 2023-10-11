@@ -1,0 +1,76 @@
+
+loading_spine_2.png
+size: 479,261
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pigeon_body
+  rotate: false
+  xy: 2, 2
+  size: 198, 257
+  orig: 198, 257
+  offset: 0, 0
+  index: -1
+pigeon_eyeShadow
+  rotate: true
+  xy: 456, 228
+  size: 31, 17
+  orig: 31, 17
+  offset: 0, 0
+  index: -1
+pigeon_eyeWhite
+  rotate: false
+  xy: 419, 14
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+pigeon_eyeball
+  rotate: false
+  xy: 453, 27
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+pigeon_eyelid
+  rotate: true
+  xy: 419, 53
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+pigeon_mouth_B
+  rotate: false
+  xy: 419, 92
+  size: 46, 29
+  orig: 46, 29
+  offset: 0, 0
+  index: -1
+pigeon_mouth_T
+  rotate: false
+  xy: 419, 123
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+pigeon_toast
+  rotate: true
+  xy: 202, 3
+  size: 256, 140
+  orig: 256, 140
+  offset: 0, 0
+  index: -1
+pigeon_toast_back
+  rotate: false
+  xy: 344, 173
+  size: 110, 86
+  orig: 110, 86
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 344, 3
+  size: 168, 73
+  orig: 168, 73
+  offset: 0, 0
+  index: -1

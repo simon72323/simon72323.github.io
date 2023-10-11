@@ -1,0 +1,188 @@
+
+bb_logo_royalblue_cn.png
+size: 1076,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_pic/bb_battle_logo
+  rotate: false
+  xy: 176, 83
+  size: 583, 184
+  orig: 585, 186
+  offset: 1, 1
+  index: -1
+01_pic/color
+  rotate: true
+  xy: 2, 75
+  size: 192, 172
+  orig: 194, 174
+  offset: 1, 1
+  index: -1
+02_ani_logo_light/ani_logo_light_02
+  rotate: true
+  xy: 803, 2
+  size: 7, 25
+  orig: 360, 140
+  offset: 65, 76
+  index: -1
+02_ani_logo_light/ani_logo_light_03
+  rotate: true
+  xy: 1017, 61
+  size: 24, 57
+  orig: 360, 140
+  offset: 62, 45
+  index: -1
+02_ani_logo_light/ani_logo_light_04
+  rotate: false
+  xy: 58, 4
+  size: 40, 69
+  orig: 360, 140
+  offset: 60, 33
+  index: -1
+02_ani_logo_light/ani_logo_light_05
+  rotate: false
+  xy: 2, 2
+  size: 54, 71
+  orig: 360, 140
+  offset: 60, 31
+  index: -1
+02_ani_logo_light/ani_logo_light_06
+  rotate: true
+  xy: 153, 6
+  size: 67, 74
+  orig: 360, 140
+  offset: 61, 28
+  index: -1
+02_ani_logo_light/ani_logo_light_07
+  rotate: false
+  xy: 498, 6
+  size: 82, 75
+  orig: 360, 140
+  offset: 60, 27
+  index: -1
+02_ani_logo_light/ani_logo_light_08
+  rotate: false
+  xy: 409, 6
+  size: 87, 75
+  orig: 360, 140
+  offset: 61, 27
+  index: -1
+02_ani_logo_light/ani_logo_light_09
+  rotate: false
+  xy: 303, 6
+  size: 104, 75
+  orig: 360, 140
+  offset: 66, 27
+  index: -1
+02_ani_logo_light/ani_logo_light_10
+  rotate: false
+  xy: 803, 11
+  size: 106, 72
+  orig: 360, 140
+  offset: 78, 27
+  index: -1
+02_ani_logo_light/ani_logo_light_11
+  rotate: false
+  xy: 693, 9
+  size: 108, 72
+  orig: 360, 140
+  offset: 90, 27
+  index: -1
+02_ani_logo_light/ani_logo_light_12
+  rotate: false
+  xy: 582, 9
+  size: 109, 72
+  orig: 360, 140
+  offset: 103, 27
+  index: -1
+02_ani_logo_light/ani_logo_light_13
+  rotate: false
+  xy: 911, 12
+  size: 104, 72
+  orig: 360, 140
+  offset: 117, 27
+  index: -1
+02_ani_logo_light/ani_logo_light_14
+  rotate: true
+  xy: 761, 159
+  size: 108, 72
+  orig: 360, 140
+  offset: 131, 27
+  index: -1
+02_ani_logo_light/ani_logo_light_15
+  rotate: false
+  xy: 761, 85
+  size: 107, 72
+  orig: 360, 140
+  offset: 146, 27
+  index: -1
+02_ani_logo_light/ani_logo_light_16
+  rotate: false
+  xy: 870, 86
+  size: 106, 72
+  orig: 360, 140
+  offset: 161, 27
+  index: -1
+02_ani_logo_light/ani_logo_light_17
+  rotate: true
+  xy: 835, 160
+  size: 107, 72
+  orig: 360, 140
+  offset: 174, 27
+  index: -1
+02_ani_logo_light/ani_logo_light_18
+  rotate: true
+  xy: 909, 161
+  size: 106, 72
+  orig: 360, 140
+  offset: 188, 27
+  index: -1
+02_ani_logo_light/ani_logo_light_19
+  rotate: false
+  xy: 983, 195
+  size: 89, 72
+  orig: 360, 140
+  offset: 206, 27
+  index: -1
+02_ani_logo_light/ani_logo_light_20
+  rotate: true
+  xy: 229, 4
+  size: 77, 72
+  orig: 360, 140
+  offset: 218, 27
+  index: -1
+02_ani_logo_light/ani_logo_light_21
+  rotate: false
+  xy: 978, 87
+  size: 65, 72
+  orig: 360, 140
+  offset: 230, 27
+  index: -1
+02_ani_logo_light/ani_logo_light_22
+  rotate: false
+  xy: 100, 5
+  size: 51, 68
+  orig: 360, 140
+  offset: 244, 27
+  index: -1
+02_ani_logo_light/ani_logo_light_23
+  rotate: true
+  xy: 983, 161
+  size: 32, 62
+  orig: 360, 140
+  offset: 263, 27
+  index: -1
+02_ani_logo_light/ani_logo_light_24
+  rotate: false
+  xy: 1047, 153
+  size: 20, 40
+  orig: 360, 140
+  offset: 275, 27
+  index: -1
+02_ani_logo_light/ani_logo_light_25
+  rotate: false
+  xy: 176, 75
+  size: 4, 6
+  orig: 360, 140
+  offset: 291, 36
+  index: -1

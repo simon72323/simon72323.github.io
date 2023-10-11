@@ -1,0 +1,258 @@
+
+xbb_logo_en.png
+size: 1788,396
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_pic/1
+  rotate: false
+  xy: 1573, 254
+  size: 129, 140
+  orig: 131, 142
+  offset: 1, 1
+  index: -1
+01_pic/1_shadow
+  rotate: false
+  xy: 1303, 247
+  size: 136, 147
+  orig: 138, 149
+  offset: 1, 1
+  index: -1
+01_pic/2
+  rotate: true
+  xy: 962, 15
+  size: 102, 129
+  orig: 104, 131
+  offset: 1, 1
+  index: -1
+01_pic/2_shadow
+  rotate: true
+  xy: 1581, 142
+  size: 110, 136
+  orig: 112, 138
+  offset: 1, 1
+  index: -1
+01_pic/3
+  rotate: true
+  xy: 1093, 13
+  size: 104, 129
+  orig: 106, 131
+  offset: 1, 1
+  index: -1
+01_pic/3_shadow
+  rotate: true
+  xy: 1442, 136
+  size: 111, 137
+  orig: 113, 139
+  offset: 1, 1
+  index: -1
+01_pic/4
+  rotate: true
+  xy: 1303, 123
+  size: 122, 137
+  orig: 124, 139
+  offset: 1, 1
+  index: -1
+01_pic/4_shadow
+  rotate: false
+  xy: 1441, 249
+  size: 130, 145
+  orig: 132, 147
+  offset: 1, 1
+  index: -1
+01_pic/light_2
+  rotate: false
+  xy: 998, 119
+  size: 303, 275
+  orig: 305, 277
+  offset: 1, 1
+  index: -1
+01_pic/word
+  rotate: false
+  xy: 2, 72
+  size: 955, 140
+  orig: 957, 142
+  offset: 1, 1
+  index: -1
+01_pic/word_shadows
+  rotate: false
+  xy: 2, 214
+  size: 994, 180
+  orig: 996, 182
+  offset: 1, 1
+  index: -1
+02_anilight/02_anilight_01
+  rotate: false
+  xy: 1704, 257
+  size: 13, 15
+  orig: 360, 140
+  offset: 12, 72
+  index: -1
+02_anilight/02_anilight_02
+  rotate: false
+  xy: 1537, 30
+  size: 42, 51
+  orig: 360, 140
+  offset: 1, 36
+  index: -1
+02_anilight/02_anilight_03
+  rotate: false
+  xy: 1674, 89
+  size: 59, 51
+  orig: 360, 140
+  offset: 1, 36
+  index: -1
+02_anilight/02_anilight_04
+  rotate: true
+  xy: 1735, 86
+  size: 77, 51
+  orig: 360, 140
+  offset: 1, 36
+  index: -1
+02_anilight/02_anilight_05
+  rotate: false
+  xy: 1581, 89
+  size: 91, 51
+  orig: 360, 140
+  offset: 1, 36
+  index: -1
+02_anilight/02_anilight_06
+  rotate: true
+  xy: 1331, 10
+  size: 111, 51
+  orig: 360, 140
+  offset: 1, 36
+  index: -1
+02_anilight/02_anilight_07
+  rotate: false
+  xy: 125, 19
+  size: 121, 51
+  orig: 360, 140
+  offset: 8, 36
+  index: -1
+02_anilight/02_anilight_08
+  rotate: false
+  xy: 1442, 83
+  size: 105, 51
+  orig: 360, 140
+  offset: 28, 36
+  index: -1
+02_anilight/02_anilight_09
+  rotate: false
+  xy: 491, 19
+  size: 118, 51
+  orig: 360, 140
+  offset: 47, 36
+  index: -1
+02_anilight/02_anilight_10
+  rotate: false
+  xy: 370, 18
+  size: 119, 52
+  orig: 360, 140
+  offset: 61, 36
+  index: -1
+02_anilight/02_anilight_11
+  rotate: true
+  xy: 1224, 2
+  size: 115, 52
+  orig: 360, 140
+  offset: 82, 36
+  index: -1
+02_anilight/02_anilight_12
+  rotate: false
+  xy: 2, 18
+  size: 121, 52
+  orig: 360, 140
+  offset: 96, 36
+  index: -1
+02_anilight/02_anilight_13
+  rotate: false
+  xy: 730, 17
+  size: 116, 53
+  orig: 360, 140
+  offset: 114, 35
+  index: -1
+02_anilight/02_anilight_14
+  rotate: false
+  xy: 848, 17
+  size: 112, 53
+  orig: 360, 140
+  offset: 140, 35
+  index: -1
+02_anilight/02_anilight_15
+  rotate: true
+  xy: 1704, 274
+  size: 120, 53
+  orig: 360, 140
+  offset: 149, 35
+  index: -1
+02_anilight/02_anilight_16
+  rotate: true
+  xy: 1719, 165
+  size: 107, 53
+  orig: 360, 140
+  offset: 179, 35
+  index: -1
+02_anilight/02_anilight_17
+  rotate: false
+  xy: 611, 18
+  size: 117, 52
+  orig: 360, 140
+  offset: 187, 35
+  index: -1
+02_anilight/02_anilight_18
+  rotate: false
+  xy: 248, 19
+  size: 120, 51
+  orig: 360, 140
+  offset: 201, 36
+  index: -1
+02_anilight/02_anilight_19
+  rotate: true
+  xy: 1384, 10
+  size: 111, 51
+  orig: 360, 140
+  offset: 228, 36
+  index: -1
+02_anilight/02_anilight_20
+  rotate: true
+  xy: 1278, 2
+  size: 115, 51
+  orig: 360, 140
+  offset: 236, 36
+  index: -1
+02_anilight/02_anilight_21
+  rotate: false
+  xy: 1437, 30
+  size: 98, 51
+  orig: 360, 140
+  offset: 254, 36
+  index: -1
+02_anilight/02_anilight_22
+  rotate: false
+  xy: 1581, 36
+  size: 80, 51
+  orig: 360, 140
+  offset: 272, 36
+  index: -1
+02_anilight/02_anilight_23
+  rotate: false
+  xy: 1663, 36
+  size: 63, 51
+  orig: 360, 140
+  offset: 289, 36
+  index: -1
+02_anilight/02_anilight_24
+  rotate: true
+  xy: 1728, 39
+  size: 45, 51
+  orig: 360, 140
+  offset: 307, 36
+  index: -1
+02_anilight/02_anilight_25
+  rotate: false
+  xy: 959, 167
+  size: 22, 45
+  orig: 360, 140
+  offset: 330, 36
+  index: -1
