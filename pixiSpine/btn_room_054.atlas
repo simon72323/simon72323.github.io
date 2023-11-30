@@ -1,0 +1,251 @@
+
+btn_room_054.png
+size: 929,456
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Breast_L
+  rotate: false
+  xy: 659, 6
+  size: 76, 101
+  orig: 76, 101
+  offset: 0, 0
+  index: -1
+Breast_R
+  rotate: false
+  xy: 793, 63
+  size: 69, 84
+  orig: 69, 84
+  offset: 0, 0
+  index: -1
+Chest
+  rotate: true
+  xy: 534, 296
+  size: 158, 222
+  orig: 158, 222
+  offset: 0, 0
+  index: -1
+Clothes_bot
+  rotate: false
+  xy: 449, 113
+  size: 127, 147
+  orig: 127, 147
+  offset: 0, 0
+  index: -1
+Clothes_top
+  rotate: true
+  xy: 2, 262
+  size: 192, 530
+  orig: 192, 530
+  offset: 0, 0
+  index: -1
+EarRing
+  rotate: false
+  xy: 431, 115
+  size: 9, 17
+  orig: 9, 17
+  offset: 0, 0
+  index: -1
+Elbow
+  rotate: false
+  xy: 534, 268
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+Eyeball_L
+  rotate: false
+  xy: 705, 115
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+Eyeball_R
+  rotate: false
+  xy: 761, 2
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+Eyelash_L
+  rotate: true
+  xy: 397, 2
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+Eyelash_R
+  rotate: false
+  xy: 737, 18
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+Eyelid_L
+  rotate: false
+  xy: 705, 130
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+Eyelid_R
+  rotate: true
+  xy: 397, 27
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+Eyewhite_L
+  rotate: false
+  xy: 87, 2
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+Eyewhite_R
+  rotate: false
+  xy: 737, 2
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+Hair_a
+  rotate: true
+  xy: 2, 14
+  size: 23, 83
+  orig: 23, 83
+  offset: 0, 0
+  index: -1
+Hair_b
+  rotate: true
+  xy: 732, 149
+  size: 55, 151
+  orig: 55, 151
+  offset: 0, 0
+  index: -1
+Hair_c
+  rotate: true
+  xy: 758, 365
+  size: 89, 169
+  orig: 89, 169
+  offset: 0, 0
+  index: -1
+Hair_d
+  rotate: true
+  xy: 284, 134
+  size: 126, 163
+  orig: 126, 163
+  offset: 0, 0
+  index: -1
+Hair_d_back
+  rotate: true
+  xy: 883, 259
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+Hair_e
+  rotate: true
+  xy: 2, 39
+  size: 100, 249
+  orig: 100, 249
+  offset: 0, 0
+  index: -1
+Hair_f
+  rotate: true
+  xy: 253, 2
+  size: 58, 142
+  orig: 58, 142
+  offset: 0, 0
+  index: -1
+Hair_g
+  rotate: true
+  xy: 2, 141
+  size: 119, 280
+  orig: 119, 280
+  offset: 0, 0
+  index: -1
+Hair_shadow
+  rotate: false
+  xy: 578, 154
+  size: 152, 140
+  orig: 152, 140
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: false
+  xy: 793, 7
+  size: 74, 54
+  orig: 74, 54
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 431, 8
+  size: 103, 121
+  orig: 103, 121
+  offset: 0, 0
+  index: -1
+Leg
+  rotate: true
+  xy: 732, 206
+  size: 82, 149
+  orig: 82, 149
+  offset: 0, 0
+  index: -1
+LowerArm_L
+  rotate: false
+  xy: 737, 31
+  size: 54, 116
+  orig: 54, 116
+  offset: 0, 0
+  index: -1
+LowerArm_R
+  rotate: false
+  xy: 578, 109
+  size: 125, 43
+  orig: 125, 43
+  offset: 0, 0
+  index: -1
+Pendant
+  rotate: false
+  xy: 87, 16
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+Poker_02
+  rotate: false
+  xy: 883, 210
+  size: 39, 47
+  orig: 39, 47
+  offset: 0, 0
+  index: -1
+UpperArm_L
+  rotate: true
+  xy: 253, 62
+  size: 70, 176
+  orig: 70, 176
+  offset: 0, 0
+  index: -1
+UpperArm_R
+  rotate: true
+  xy: 758, 290
+  size: 73, 169
+  orig: 73, 169
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: false
+  xy: 864, 75
+  size: 61, 72
+  orig: 61, 72
+  offset: 0, 0
+  index: -1
+star_A01
+  rotate: true
+  xy: 554, 5
+  size: 102, 103
+  orig: 102, 103
+  offset: 0, 0
+  index: -1

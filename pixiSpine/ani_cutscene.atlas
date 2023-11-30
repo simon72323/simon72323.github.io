@@ -1,0 +1,460 @@
+
+ani_cutscene.png
+size: 2001,934
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_pic/boat
+  rotate: false
+  xy: 0, 239
+  size: 915, 695
+  orig: 915, 702
+  offset: 0, 3
+  index: -1
+01_pic/hook
+  rotate: false
+  xy: 759, 83
+  size: 145, 154
+  orig: 149, 159
+  offset: 2, 4
+  index: -1
+01_pic/rope
+  rotate: false
+  xy: 1929, 15
+  size: 47, 160
+  orig: 50, 164
+  offset: 2, 3
+  index: -1
+03_pic/ani_wave_back00
+  rotate: false
+  xy: 506, 0
+  size: 251, 76
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_back01
+  rotate: false
+  xy: 1676, 619
+  size: 251, 76
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_back02
+  rotate: false
+  xy: 1676, 541
+  size: 251, 76
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_back03
+  rotate: false
+  xy: 1423, 539
+  size: 251, 76
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_back04
+  rotate: false
+  xy: 1676, 463
+  size: 251, 76
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_back05
+  rotate: false
+  xy: 1423, 461
+  size: 251, 76
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_back06
+  rotate: false
+  xy: 1676, 697
+  size: 251, 77
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_back07
+  rotate: false
+  xy: 917, 454
+  size: 251, 77
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_back08
+  rotate: false
+  xy: 1170, 775
+  size: 251, 78
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_back09
+  rotate: false
+  xy: 1423, 856
+  size: 251, 78
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_back10
+  rotate: false
+  xy: 506, 78
+  size: 251, 78
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_back11
+  rotate: false
+  xy: 917, 613
+  size: 251, 78
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_back12
+  rotate: false
+  xy: 1170, 695
+  size: 251, 78
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_back13
+  rotate: false
+  xy: 1423, 776
+  size: 251, 78
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_back14
+  rotate: false
+  xy: 1676, 856
+  size: 251, 78
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_back15
+  rotate: false
+  xy: 1676, 776
+  size: 251, 78
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_back16
+  rotate: false
+  xy: 917, 533
+  size: 251, 78
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_back17
+  rotate: false
+  xy: 0, 158
+  size: 251, 79
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_back18
+  rotate: false
+  xy: 917, 855
+  size: 251, 79
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_back19
+  rotate: false
+  xy: 0, 77
+  size: 251, 79
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_back20
+  rotate: false
+  xy: 253, 158
+  size: 251, 79
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_back21
+  rotate: false
+  xy: 917, 774
+  size: 251, 79
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_back22
+  rotate: false
+  xy: 1170, 855
+  size: 251, 79
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_back23
+  rotate: false
+  xy: 253, 77
+  size: 251, 79
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_back24
+  rotate: false
+  xy: 506, 158
+  size: 251, 79
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_back25
+  rotate: false
+  xy: 917, 693
+  size: 251, 79
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_back26
+  rotate: false
+  xy: 1170, 615
+  size: 251, 78
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_back27
+  rotate: false
+  xy: 1423, 696
+  size: 251, 78
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_back28
+  rotate: false
+  xy: 1170, 536
+  size: 251, 77
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_back29
+  rotate: false
+  xy: 1423, 617
+  size: 251, 77
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_fornt_00
+  rotate: false
+  xy: 917, 236
+  size: 251, 69
+  orig: 251, 88
+  offset: 0, 1
+  index: -1
+03_pic/ani_wave_fornt_01
+  rotate: false
+  xy: 1676, 391
+  size: 251, 70
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_fornt_02
+  rotate: false
+  xy: 1170, 316
+  size: 251, 70
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_fornt_03
+  rotate: false
+  xy: 1423, 316
+  size: 251, 70
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_fornt_04
+  rotate: false
+  xy: 1676, 248
+  size: 251, 69
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_fornt_05
+  rotate: false
+  xy: 906, 165
+  size: 251, 69
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_fornt_06
+  rotate: false
+  xy: 906, 24
+  size: 251, 68
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_fornt_07
+  rotate: false
+  xy: 1170, 174
+  size: 251, 68
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_fornt_08
+  rotate: false
+  xy: 1423, 174
+  size: 251, 68
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_fornt_09
+  rotate: false
+  xy: 1159, 33
+  size: 251, 68
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_fornt_10
+  rotate: false
+  xy: 1412, 104
+  size: 251, 68
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_fornt_11
+  rotate: false
+  xy: 1412, 34
+  size: 251, 68
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_fornt_12
+  rotate: false
+  xy: 1676, 107
+  size: 251, 68
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_fornt_13
+  rotate: false
+  xy: 906, 94
+  size: 251, 69
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_fornt_14
+  rotate: false
+  xy: 1676, 177
+  size: 251, 69
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_fornt_15
+  rotate: false
+  xy: 1676, 319
+  size: 251, 70
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_fornt_16
+  rotate: false
+  xy: 1170, 244
+  size: 251, 70
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_fornt_17
+  rotate: false
+  xy: 1170, 388
+  size: 251, 71
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_fornt_18
+  rotate: false
+  xy: 917, 307
+  size: 251, 71
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_fornt_19
+  rotate: true
+  xy: 1929, 683
+  size: 251, 72
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_fornt_20
+  rotate: true
+  xy: 1929, 430
+  size: 251, 72
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_fornt_21
+  rotate: false
+  xy: 1170, 461
+  size: 251, 73
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_fornt_22
+  rotate: false
+  xy: 0, 2
+  size: 251, 73
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_fornt_23
+  rotate: false
+  xy: 253, 2
+  size: 251, 73
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+03_pic/ani_wave_fornt_24
+  rotate: false
+  xy: 917, 380
+  size: 251, 72
+  orig: 251, 88
+  offset: 0, 1
+  index: -1
+03_pic/ani_wave_fornt_25
+  rotate: false
+  xy: 1423, 388
+  size: 251, 71
+  orig: 251, 88
+  offset: 0, 1
+  index: -1
+03_pic/ani_wave_fornt_26
+  rotate: false
+  xy: 1423, 244
+  size: 251, 70
+  orig: 251, 88
+  offset: 0, 2
+  index: -1
+03_pic/ani_wave_fornt_27
+  rotate: false
+  xy: 1665, 37
+  size: 251, 68
+  orig: 251, 88
+  offset: 0, 3
+  index: -1
+03_pic/ani_wave_fornt_28
+  rotate: true
+  xy: 1929, 177
+  size: 251, 69
+  orig: 251, 88
+  offset: 0, 2
+  index: -1
+03_pic/ani_wave_fornt_29
+  rotate: false
+  xy: 1159, 103
+  size: 251, 69
+  orig: 251, 88
+  offset: 0, 1
+  index: -1
+
+ani_cutscene_fx1.jpg
+size: 501,501
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+04_fx/llight
+  rotate: false
+  xy: 0, 0
+  size: 501, 501
+  orig: 501, 501
+  offset: 0, 0
+  index: -1
