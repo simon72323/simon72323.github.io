@@ -2,25 +2,26 @@
 <div id="app"></div> 
 <script src="pixi.min.js"></script>
 <script src="pixi-spine.js"></script>
-<script>
-const app = new PIXI.Application({
-    width:1920,
-	height:1080,
-	backgroundAlpha:1
+<script>const app = new PIXI.Application({
+    backgroundColor:0xFFFFFF,
+	antialias:true;
+	width:1600,
+	height:900,
+	//backgroundAlpha:0
 })
 //app.renderer.autoDensity = true
 document.getElementById('app').appendChild(app.view);//div
 //app.stage.interactive = true;
 
-PIXI.loader.add('spine2d','OD.json').load((loader,res)=>{
-  res.spine2d.spineAtlas.pages[0].baseTexture.alphaMode = PIXI.ALPHA_MODES.PMA;//啟用PMA
-  let spine2d = new PIXI.spine.Spine(res.spine2d.spineData),options = [''];
-  spine2d.position.set(960,540)
-  spine2d.scale.set(1);//放大倍数
-  spine2d.state.setAnimation(0,'loop',true,0);//播放的動畫名稱
-  spine2d.interactive = true;
-  app.stage.addChild(spine2d);
-});
+let loader = PIXI.loader.add('ordylan,'OD.json');
 
 
-</script>
+loader.load((loader,res)=>{
+  //res.spine2d.spineAtlas.pages[0].baseTexture.alphaMode = PIXI.ALPHA_MODES.PMA;//啟用PMA
+  let ordylan = new PIXI.spine.Spine(res.ordylan.spineData),options = [''];
+  ordylan.position.set(960,540)
+  ordylan.scale.set(1);//放大倍数
+  ordylan.state.setAnimation(0,'loop',true);//播放的動畫名稱
+  //spine2d.interactive = true;
+  app.stage.addChild(ordylan);
+});</script>
