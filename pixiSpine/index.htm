@@ -1,12 +1,12 @@
 <title>pixijs使用spine示例</title>
 <div id="app"></div> 
 <script src="pixi.min.js"></script>
-<script src="pixi-spine.min.js"></script>
+<script src="pixi-spine.js"></script>
 <script>
 const app = new PIXI.Application({
     width:1920,
 	height:1080,
-	backgroundAlpha:0
+	backgroundAlpha:1
 })
 //app.renderer.autoDensity = true
 document.getElementById('app').appendChild(app.view);//div
@@ -21,4 +21,6 @@ PIXI.loader.add('spine2d','OD.json').load((loader,res)=>{
   spine2d.interactive = true;
   app.stage.addChild(spine2d);
 });
+
+
 </script>
