@@ -9,7 +9,7 @@
     height:document.documentElement.clientHeight
 });
 document.getElementById('app').appendChild(app.view);//div
-let loader = PIXI.loader.add('ordylan','OD.json');//OD.json你的json
+let loader = PIXI.loader.add('ordylan','ani_cutscene.json');//OD.json你的json
        var skinwidth = 1175.72;//这里写一个自适应,要换成皮肤长宽
        var skinheight = 818.79;//原理很简单,一点小学数学知识+平面直角坐标系知识即可
 var beishu1 = document.documentElement.clientWidth/skinwidth;//2个缩放比例
@@ -27,7 +27,7 @@ loader.load((loader,res)=>{
     let ordylan = new PIXI.spine.Spine(res.ordylan.spineData),
         options = [''];
     ordylan.scale.set(beishu);//放大倍数
-    ordylan.state.setAnimation(0,'loop',true);//loop你的动画名字 true 为循环播放
+    ordylan.state.setAnimation(0,'in',true);//loop你的动画名字 true 为循环播放
     ordylan.x = skinwidth*beishu/2;//O点在中间,所以xy 坐标 长宽除以二(导出记得把动画放在中央)
     ordylan.y = skinheight*beishu/2;
 app.stage.addChild(ordylan);
