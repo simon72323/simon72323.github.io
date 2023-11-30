@@ -26,7 +26,7 @@ else if (beishu1 < beishu2){
 loader.load((loader,res)=>{
     let ordylan = new PIXI.spine.Spine(res.ordylan.spineData),
         options = [''];
-    ordylan.scale.set(beishu);//放大倍数
+    ordylan.scale.set(0.5);//放大倍数
     ordylan.state.setAnimation(0,'in',true);//loop你的动画名字 true 为循环播放
     ordylan.x = skinwidth*beishu/2;//O点在中间,所以xy 坐标 长宽除以二(导出记得把动画放在中央)
     ordylan.y = skinheight*beishu/2;
