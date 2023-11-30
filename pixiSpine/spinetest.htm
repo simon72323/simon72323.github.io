@@ -1,0 +1,34 @@
+<title>pixijs使用spine示例</title>
+<div id="app"></div>
+<script src="pixi.min.js"></script>
+<script src="pixi-spine.js"></script>
+<script>const app = new PIXI.Application({
+    backgroundColor:0xFFFFFF,
+    antialias:true,
+    width:document.documentElement.clientWidth,
+    height:document.documentElement.clientHeight
+});
+document.getElementById('app').appendChild(app.view);//div
+let loader = PIXI.loader.add('ordylan','OD.json');//OD.json你的json
+       var skinwidth = 1175.72;//这里写一个自适应,要换成皮肤长宽
+       var skinheight = 818.79;//原理很简单,一点小学数学知识+平面直角坐标系知识即可
+var beishu1 = document.documentElement.clientWidth/skinwidth;//2个缩放比例
+var beishu2 = document.documentElement.clientHeight/skinheight;//理解成相似图形即可
+if(beishu1 > beishu2){//比较选小的,防止出屏幕
+    var beishu = beishu2;
+}
+else if(beishu1 == beishu2){
+    var beishu = beishu1;
+}
+else if (beishu1 < beishu2){
+    var beishu = beishu1;
+}
+loader.load((loader,res)=>{
+    let ordylan = new PIXI.spine.Spine(res.ordylan.spineData),
+        options = [''];
+    ordylan.scale.set(beishu);//放大倍数
+    ordylan.state.setAnimation(0,'loop',true);//loop你的动画名字 true 为循环播放
+    ordylan.x = skinwidth*beishu/2;//O点在中间,所以xy 坐标 长宽除以二(导出记得把动画放在中央)
+    ordylan.y = skinheight*beishu/2;
+app.stage.addChild(ordylan);
+});</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon='{"rayId":"82df04e10cc70fc0","r":1,"version":"2023.10.0","token":"d842f1a3e5a2409b9e29d619b8bfdbcd"}' crossorigin="anonymous"></script>

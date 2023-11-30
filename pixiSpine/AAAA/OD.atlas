@@ -1,0 +1,27 @@
+
+OD.png
+size: 982,748
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: true
+  xy: 871, 413
+  size: 333, 63
+  orig: 788, 151
+  offset: 203, 39
+  index: -1
+story_illust
+  rotate: true
+  xy: 2, 2
+  size: 744, 867
+  orig: 744, 867
+  offset: 0, 0
+  index: -1
+无标题
+  rotate: true
+  xy: 871, 230
+  size: 181, 109
+  orig: 181, 109
+  offset: 0, 0
+  index: -1
