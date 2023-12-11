@@ -3,7 +3,7 @@
 <script src="pixi.min.js"></script>
 <script src="pixi-spine.js"></script>
 <script>const app = new PIXI.Application({
-    backgroundColor:0xFFFFFF,
+    backgroundColor:0x000000,
     antialias:true,
     width:document.documentElement.clientWidth,
     height:document.documentElement.clientHeight
@@ -27,7 +27,7 @@ loader.load((loader,res)=>{
     let ordylan = new PIXI.spine.Spine(res.ordylan.spineData),
         options = [''];
     ordylan.scale.set(0.5);//放大倍数
-    ordylan.state.setAnimation(0,'swim',true);//loop你的动画名字 true 为循环播放
+    ordylan.state.setAnimation(0,'swimEVO',true);//loop你的动画名字 true 为循环播放
     ordylan.x = skinwidth*beishu/2;//O点在中间,所以xy 坐标 长宽除以二(导出记得把动画放在中央)
     ordylan.y = skinheight*beishu/2;
 app.stage.addChild(ordylan);
