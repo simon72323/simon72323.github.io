@@ -31,7 +31,6 @@ loader.load((loader,res)=>{
     ordylan.state.setAnimation(0,'animation',true);//loop你的动画名字 true 为循环播放
     ordylan.x = 100*i;//O点在中间,所以xy 坐标 长宽除以二(导出记得把动画放在中央)
     ordylan.y = skinheight*beishu/2;
+    app.stage.addChild(ordylan);
     }
-
-app.stage.addChild(ordylan);
 });</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon='{"rayId":"82df04e10cc70fc0","r":1,"version":"2023.10.0","token":"d842f1a3e5a2409b9e29d619b8bfdbcd"}' crossorigin="anonymous"></script>
