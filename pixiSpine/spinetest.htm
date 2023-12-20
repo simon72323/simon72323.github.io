@@ -25,13 +25,13 @@ else if (beishu1 < beishu2){
 }
 loader.load((loader,res)=>{
     for(let k=0;k<5;k++){
-		for(let i=0;i<10;i++){
+		for(let i=0;i<20;i++){
 			let ordylan = new PIXI.spine.Spine(res.ordylan.spineData),
 			options = [''];
 		ordylan.scale.set(0.3);//放大倍数
 		ordylan.state.setAnimation(0,'animation',true);//loop你的动画名字 true 为循环播放
-		ordylan.x = 200+100*i;//O点在中间,所以xy 坐标 长宽除以二(导出记得把动画放在中央)
-		ordylan.y = 200+120*k;
+		ordylan.x = 200+80*i;//O点在中间,所以xy 坐标 长宽除以二(导出记得把动画放在中央)
+		ordylan.y = 200+150*k;
 		app.stage.addChild(ordylan);
 		}
 	}
